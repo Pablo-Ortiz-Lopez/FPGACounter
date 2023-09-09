@@ -1,0 +1,2 @@
+vhdl work "Clock_Module.vhd"
+vhdl work "Counter.vhd"

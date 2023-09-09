@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/pablo/ise/counter8bit/Counter.ncd
+OUTFILE=/home/pablo/ise/counter8bit/Counter.bit
+FAMILY=Spartan6
+PART=xc6slx16-2ftg256
+WORKINGDIR=/home/pablo/ise/counter8bit
+LICENSE=WebPack
+USER_INFO=212232054_0_0_156
